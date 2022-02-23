@@ -3,10 +3,12 @@
 	margin: 0px;
 	padding: 0px;
 	background-image: url('bg.png');
+	margin: 0px;
+	padding: 0px;
 }
 
 p{
-	
+	text-align:justify;
 }
 
 hr {
@@ -24,7 +26,6 @@ h2 {
 }
 
 #tartalom {
-	
 		width: 850px;
 		margin: 0 auto 0 auto;
 		padding: 0px 10px;
@@ -39,7 +40,8 @@ h2 {
 
 
 .kep {
-	
+	float:right;
+	border:1px solid;
 	margin-left: 5px;
 }
 
